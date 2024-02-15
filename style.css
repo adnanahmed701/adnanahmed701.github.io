@@ -9,8 +9,8 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: var(--bg-color);
-  color: var(--text-color);
+  background: #111111;
+  color: white;
 }
 
 html {
